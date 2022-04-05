@@ -1,0 +1,28 @@
+Disney Club Directors
+CNJ::cnj::Director, Head Composer & Artist of Various Credit Icons::https://twitter.com/mickey_smash::0xFF4CBCE7
+Nautical::nautical::Director & UI Designer::https://twitter.com/nauticallll::0xFFFFFFFF
+Disney Club Musicians
+GenoX::geno::Chromatic Scales for Gary, Sora and Mickey::https://twitter.com/GenoXACT2::0xFFA8B0CE
+AguaCrunch::aqua::Composer of "Swampy Fever" & Chromatic Scale for Swampy::https://twitter.com/AguaCrunch::0xFF13438D
+Kreagato::gato::Chromatic Scale for Flippy::https://twitter.com/Kreagato::0xFFA28674
+TylerTheGamer::tyler::Voice Actor for Flippy::https://twitter.com/tylerthegamer64::0xFF4C9EF7
+Disney Club Artists
+Phantomations::phtano::Artist and Animator of Flippy, Gary, Swampy, Sora, Mickey, Gus, Kairi, & character icons::https://twitter.com/Phanto_Art::0xFF844E83
+ComGamingNZ::nz::Epic Mickey Character Design::https://twitter.com/Comgamingnz::0xFF716463
+theDomGom::dom::Artist & Animator of Toontown BF::https://twitter.com/DomGom1::0xFF3F3F3F
+Rafa the Beat::rafa::Swampy BF::https://twitter.com/RafaTheBeat::0xFF6CAFFE
+celery dude::celery::UI Concepts::https://twitter.com/celeryreal_food::0xFFA2FBDF
+Fair N Square::sam::Various Credit Icons & Background art for Gary and Swampy::https://twitter.com/fairofante::0xFF823302
+Feral::feral::Background art for Sora::https://twitter.com/Feralsheck::0xFF44AA31
+FAMTE::fam::Background art for Mickey::https://twitter.com/FAMTE_1::0xFFFFFFFF
+DylanIThink::idk::Background art for Flippy::https://twitter.com/DylanIThink_::0xFF6CAFFE
+Ristar::ristar::Donald and Goofy in Sora BG::https://twitter.com/mister_slumber::0xFFF9CA1C
+ToontownForSmash::nose::Story Mode Art::https://twitter.com/Toontown4Smash::0xFF50CB40
+Autumn::fall::Drew Star Crate and Toontown GF's hat::https://twitter.com/Hee_Ho1::0xFFDB7EAB
+RatioBread::mike::Logo Designer::https://twitter.com/MikeFnf::0xFF97A2AF
+Disney Club Charters
+JoelioBrolio::jo::Charted All Demo Songs::https://gamebanana.com/members/1795077::0xFF666666
+Disney Club Coders
+Nikkalotz::me::Coder, Toontown & Swampy GF, Converted Phantomations' Art into Spritesheets::https://twitter.com/nikkalotz::0xFFE76B0E
+
+
